@@ -1,0 +1,3 @@
+namespace meanbase.Services {
+
+    }
